@@ -10,7 +10,7 @@ Additional recommendations were made to improve monitoring coverage, including t
 
 ## Objective
 
-The goal of this project was to analyze and recommend monitoring sensors for key business systems, based on threat relevance and risk exposure. Each sensor was assessed for its ability to detect specific IoCs and was prioritized according to system importance. Thresholds were proposed to balance alert effectiveness with operational usability. The project also includes recommendations for improving monitoring coverage and supporting broader governance and security objectives.
+The goal of this project was to review and recommend monitoring sensors for important business systems. Each sensor was chosen based on the type of threat it can detect and how critical the system is. I also set alert thresholds to make sure they are useful without causing too many false alarms. The project includes suggestions for adding more monitoring to improve overall security and support company policies and risk management goals.
 
 ### Skills Learned
 

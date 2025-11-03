@@ -16,19 +16,13 @@ The goal of this project was to analyze and recommend monitoring sensors for key
 
 - Evaluated and prioritized monitoring sensors based on risk relevance and asset criticality.
 - Mapped Indicators of Compromise (IoCs) to specific system behaviors and monitoring points.
-- Captured and interpreted network traffic to understand communication patterns, detect anomalies, and trace service activity using Wireshark.
-- Applied knowledge of IPv4 architecture and subnetting to propose efficient and secure network segmentation.
-
-### Virtual Machine Setup
-- Windows Server
-- Linux Server
-- Kali Server (Primary platform used for this analysis)
+- Defined alert thresholds in the context of risk tolerance and operational impact.
+- Communicated findings through structured reporting and a stakeholder-focused presentation
   
-### Tools Used
+### Tools & Technologies Used
 
-- Nmap: For active scanning and device enumeration
-- Wireshark: For passive packet capture and protocol analysis
-- VirtualBox: For lab environment deployment and simulation scenarios.
-
+- Paessler PRTG: Network and system monitoring platform
+- MITRE ATT&CK: Mapping the behavior of threats
+- CVE Details & NIST NVD: Vulnerability reference for sensor justification
 
 ## Steps
